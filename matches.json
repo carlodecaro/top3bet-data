@@ -1,0 +1,36 @@
+{
+  "todayMatches": [
+    {
+      "teams": "Inter vs Milan",
+      "prediction": "Over 1.5",
+      "probability": 78
+    },
+    {
+      "teams": "Real Madrid vs Valencia",
+      "prediction": "1X",
+      "probability": 82
+    },
+    {
+      "teams": "PSG vs Lyon",
+      "prediction": "Goal",
+      "probability": 75
+    }
+  ],
+  "yesterdayResults": [
+    {
+      "teams": "Inter vs Roma",
+      "result": "VINTA",
+      "won": true
+    },
+    {
+      "teams": "Barca vs Sevilla",
+      "result": "VINTA",
+      "won": true
+    },
+    {
+      "teams": "Napoli vs Lazio",
+      "result": "PERSA",
+      "won": false
+    }
+  ]
+}
