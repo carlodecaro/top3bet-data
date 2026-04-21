@@ -1,19 +1,28 @@
 {
   "todayMatches": [
     {
-      "teams": "Pippo vs Carlo",
+      "teams": "Palermo vs Cesena",
       "prediction": "Over 1.5",
-      "probability": 78
+      "probability": 88,
+      "odds": 1.85,
+      "league": "Serie B",
+      "kickoff": "20:45"
     },
     {
       "teams": "Real Madrid vs Valencia",
       "prediction": "1X",
-      "probability": 99
+      "probability": 99,
+      "odds": 1.62,
+      "league": "La Liga",
+      "kickoff": "21:00"
     },
     {
       "teams": "PSG vs Lyon",
       "prediction": "Goal",
-      "probability": 75
+      "probability": 75,
+      "odds": 1.90,
+      "league": "Ligue 1",
+      "kickoff": "20:45"
     }
   ],
   "yesterdayResults": [
