@@ -1,17 +1,18 @@
 {
   "todayMatches": [
     {
-      "eventId": "palermo_sampdoria_over15_20260422_2130_01",
-      "teams": "Palermo vs Sampdoria",
-      "prediction": "Over 1.5",
+      "eventId": "Elche_Atl_Madrid_1X_20260422_1900",
+      "teams": "Elche vs Atl. Madrid",
+      "prediction": "1X",
       "probability": 88,
       "odds": 1.75,
-      "league": "Serie B",
-      "kickoff": "20:30",
-      "analysis": "Partita con profilo offensivo favorevole. La giocata Over 1.5 è supportata dal contesto tecnico della gara e da una probabilità elevata.",
+      "league": "SPAGNA LA LIGA",
+      "kickoff": "19:00",
+      "analysis": "L'Elche continuerà la sua disperata lotta per uscire dalla zona retrocessione ospitando l'Atlético Madrid, 
+      reduce dalla sconfitta nella finale di Copa del Rey dello scorso fine settimana.",
       "isTopPick": true,
       "pushTitle": "🔥 Top Pick del giorno",
-      "pushBody": "Palermo vs Sampdoria - Over 1.5 ad alta affidabilità"
+      "pushBody": "Elche vs Atl. Madrid - DC 1X ad alta affidabilità"
     },
     {
       "eventId": "parma_brescia_1x_20260422_1800",
