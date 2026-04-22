@@ -1,17 +1,18 @@
 {
   "todayMatches": [
-    {
-  "teams": "Palermo vs Sampdoria",
-  "prediction": "Over 1.5",
-  "probability": 88,
-  "odds": 1.75,
-  "league": "Serie B",
-  "kickoff": "20:30",
-  "analysis": "Partita con profilo offensivo favorevole.",
-  "isTopPick": true,
-  "pushTitle": "🔥 Top Pick del giorno",
-  "pushBody": "Palermo vs Sampdoria - Over 1.5 ad alta affidabilità"
-}
+        {
+      "eventId": "palermo_sampdoria_over15_20260422_2030",
+      "teams": "Palermo vs Sampdoria",
+      "prediction": "Over 1.5",
+      "probability": 88,
+      "odds": 1.75,
+      "league": "Serie B",
+      "kickoff": "20:30",
+      "analysis": "Partita con profilo offensivo favorevole.",
+      "isTopPick": true,
+      "pushTitle": "🔥 Top Pick del giorno",
+      "pushBody": "Palermo vs Sampdoria - Over 1.5 ad alta affidabilità"
+    }
     {
       "teams": "Molara vs Cesena",
       "prediction": "Over 1.5",
