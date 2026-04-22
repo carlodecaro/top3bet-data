@@ -1,22 +1,36 @@
 {
   "todayMatches": [
     {
+  "teams": "Palermo vs Sampdoria",
+  "prediction": "Over 1.5",
+  "probability": 88,
+  "odds": 1.75,
+  "league": "Serie B",
+  "kickoff": "20:30",
+  "analysis": "Partita con profilo offensivo favorevole.",
+  "isTopPick": true,
+  "pushTitle": "🔥 Top Pick del giorno",
+  "pushBody": "Palermo vs Sampdoria - Over 1.5 ad alta affidabilità"
+}
+    {
       "teams": "Molara vs Cesena",
       "prediction": "Over 1.5",
       "probability": 90,
       "odds": 1.85,
       "league": "Serie B",
       "kickoff": "20:45",
-      "analysis": "Match con profilo offensivo interessante. La pick Over 1.5 è supportata dal livello di affidabilità elevato e da un contesto gara favorevole a due o più reti."
+      "analysis": "Match con profilo offensivo interessante. La pick Over 1.5 è supportata dal livello di affidabilità elevato e da un contesto gara favorevole a due o più reti.",
+      "isTopPick": false
     },
     {
-      "teams": "Palermo vs Sampdoria",
+      "teams": "Roma vs Sampdoria",
       "prediction": "Over 1.5",
       "probability": 78,
       "odds": 1.72,
       "league": "Serie B",
       "kickoff": "18:30",
-      "analysis": "Entrambe le squadre possono creare occasioni. La quota resta interessante per una giocata prudente orientata ai gol."
+      "analysis": "Entrambe le squadre possono creare occasioni. La quota resta interessante per una giocata prudente orientata ai gol.",
+      "isTopPick": false
     }
   ],
   "yesterdayResults": [
